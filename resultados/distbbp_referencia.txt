@@ -1,0 +1,11 @@
+# Valores esperados de la LINEA FINAL de distbbp (calculados con mpmath replicando Util.pi2string).
+# Los digitos antes del espacio son los fiables; los de despues son margen de error.
+
+b = 100 (bits skipped)
+3707344A4093 E (12 hex digits)
+
+b = 1,000 (bits skipped)
+574E69A458FE A (12 hex digits)
+
+b = 10,000 (bits skipped)
+44EC5716F2B 8B (11 hex digits)

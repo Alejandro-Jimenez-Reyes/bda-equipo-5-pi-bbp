@@ -1,0 +1,20 @@
+		Map output records=1
+		Input split bytes=114
+		Spilled Records=0
+		Failed Shuffles=0
+		Merged Map outputs=0
+		GC time elapsed (ms)=0
+		Total committed heap usage (bytes)=249561088
+	File Input Format Counters 
+		Bytes Read=0
+	File Output Format Counters 
+		Bytes Written=121
+2026-11-04 00:10:04,713 INFO mapred.LocalJobRunner: Finishing task: attempt_local614733993_0028_m_000001_0
+2026-11-04 00:10:04,713 INFO mapred.LocalJobRunner: map task executor complete.
+         281819ms (=4:41.819)      : P20_19.job027> timetaken=10.041s
+P20_19.job027> writing results to /tmp/bbp_work/dist_remote_100/P20_19.job027.txt
+DistSum P20_19.job027> sigma=[n:value=59,delta=20,limit=99; e:value=44,delta=-20,limit=0]value=4603530634178916464, duration=0(0ms)
+         281843ms (=4:41.843)      : done
+
+b = 100 (bits skipped)
+3707344A4093 E (12 hex digits)

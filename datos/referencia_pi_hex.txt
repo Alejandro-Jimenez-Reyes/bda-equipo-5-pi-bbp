@@ -1,0 +1,3 @@
+# Primeros 100 digitos hexadecimales de pi (despues del punto): pi = 3.<digitos> en base 16
+# Calculados con mpmath (independiente de Hadoop). Sirven para comparar la salida de bbp.
+243F6A8885A308D313198A2E03707344A4093822299F31D0082EFA98EC4E6C89452821E638D01377BE5466CF34E90C6CC0AC
